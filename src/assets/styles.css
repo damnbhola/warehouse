@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.link {
+  cursor: pointer;
+}
+
+nav {
+  min-height: 10vh;
+  background-color: #16697a;
+}
+
+footer {
+  min-height: 10vh;
+  background-color: #16697a;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  color: white;
+}
+
+nav .link:hover {
+  color: #61a6b4;
+}
