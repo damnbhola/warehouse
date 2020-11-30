@@ -151,6 +151,7 @@ export default {
     resetFilters() {
       this.city = "All";
       this.cluster = "All";
+      this.space = "All";
     },
   },
 };
